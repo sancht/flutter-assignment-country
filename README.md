@@ -1,7 +1,7 @@
 # Zuellig Pharma Flutter Coding Challenge
 This take-home exercise is meant to test your skills, creativity, and technical understanding of Flutter and Dart. You have the freedom to design the application as you see fit, so long as the app requirements stipulated below are met. In theory, you should be spending not more than 6 hours on this exercise.
 
-## Countries App 🌎
+## eZCountries App 🌎
 Using the [Countries GraphQL API](https://studio.apollographql.com/public/countries/home?variant=current), please create a simple application that provides information on a country.
 
 ## Functional Requirements ✍🏼
