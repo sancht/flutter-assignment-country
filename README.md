@@ -17,5 +17,5 @@ You are free to design and develop the app as you see fit. However, the followin
 3. Demonstration of modular programming is a plus
 
 ## Instructions
-1. Clone the repository.
+1. Fork the repository to your personal Github.
 2. Once completed, either: (a) Provide the link to your public repository, or (b) send the compressed folder to us.
