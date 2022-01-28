@@ -18,6 +18,4 @@ You are free to design and develop the app as you see fit. However, the followin
 
 ## Instructions
 1. Clone the repository.
-2. Once completed, either:
-2a. Provide the link to your public repository, or
-2b. Send the compressed folder to us.
+2. Once completed, either: (a) Provide the link to your public repository, or (b) send the compressed folder to us.
