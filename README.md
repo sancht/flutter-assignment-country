@@ -15,3 +15,9 @@ You are free to design and develop the app as you see fit. However, the followin
 1. Flutter 2.5.3 (stable) and Dart 2.10
 2. Proper error handling in API calls
 3. Demonstration of modular programming is a plus
+
+## Instructions
+1. Clone the repository.
+2. Once completed, either:
+2a. Provide the link to your public repository, or
+2b. Send the compressed folder to us.
